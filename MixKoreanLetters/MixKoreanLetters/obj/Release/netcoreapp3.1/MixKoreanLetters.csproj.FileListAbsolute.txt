@@ -1,0 +1,10 @@
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.exe
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.deps.json
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.runtimeconfig.json
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.runtimeconfig.dev.json
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.dll
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\bin\Release\netcoreapp3.1\MixKoreanLetters.pdb
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\obj\Release\netcoreapp3.1\MixKoreanLetters.AssemblyInfoInputs.cache
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\obj\Release\netcoreapp3.1\MixKoreanLetters.AssemblyInfo.cs
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\obj\Release\netcoreapp3.1\MixKoreanLetters.dll
+D:\ks\Git\MixKoreanLetters\MixKoreanLetters\MixKoreanLetters\obj\Release\netcoreapp3.1\MixKoreanLetters.pdb
