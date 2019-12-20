@@ -39,16 +39,30 @@ namespace MixKoreanLetters
                         char[] array = word.ToCharArray();
                         Random rng = new Random();
                         int n = array.Length;
+                        int mixCount = n / 3;
                         while (n > 1)
                         {
+                            if(mixCount <= 0)
+                            {
+                                break;
+                            }
+                            mixCount--;
+
                             n--;
                             int k = rng.Next(n + 1);
-                            var value = array[k];
-                            if(value.Equals(",") || value.Equals("."))
+                            while(k == n)
+                            {
+                                k = rng.Next(n + 1);
+                            }
+
+                            if (array[k].Equals(',') || array[k].Equals('.')
+                                || array[n].Equals(',') || array[n].Equals('.'))
                             {
                                 continue;
                             }
+                            Console.WriteLine(array[k] + ">" + array[n]);
 
+                            var value = array[k];
                             array[k] = array[n];
                             array[n] = value;
                         }
